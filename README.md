@@ -1,6 +1,6 @@
 # Web Quiz Engine
 
- This educational project builds a multi-users web service for creating and solving quizEntities.  
+ This educational project builds a multi-users web service for creating and solving quizzes.  
  
  Topic covered:
  * backend development 

@@ -1,8 +1,8 @@
 # Web Quiz Engine
 
- This educational project builds a multi-users web service for creating and solving quizzes.  
+This educational project builds a multi-users web service for creating and solving quizzes.  
  
- Topic covered:
+Topic covered:
  * backend development 
  * Spring Boot
  * micro-services  
@@ -10,6 +10,5 @@
  * JPA and embedded databases
  * Spring security 
  
- For more details, check the original [Hyperskill project](https://hyperskill.org/projects/91).  
-
+For more details, check the original [Hyperskill project](https://hyperskill.org/projects/91).  
 

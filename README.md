@@ -2,7 +2,7 @@
 
 This educational project builds a multi-users web service for creating and solving quizzes.  
  
-Topic covered:
+Topics covered:
  * backend development 
  * Spring Boot
  * micro-services  
